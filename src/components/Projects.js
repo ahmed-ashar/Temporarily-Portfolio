@@ -75,8 +75,8 @@ const Projects = () => {
           title: 'LinkedIn Clone',
           desc: 'LinkedIn Clone is a web application that replicates the core features of LinkedIn. It allows users to create profiles, connect with others, and share content. The design is modern and responsive, providing an engaging user experience.',
           image: Project9,
-          live: "https://ahmed-ashar.github.io/CodeAlpha_Image_Gallery/",
-          github: "https://github.com/ahmed-ashar/CodeAlpha_Image_Gallery"
+          live: "https://linkedin-ui-clone-three.vercel.app/",
+          github: "https://github.com/ahmed-ashar/Linkedin-UI-Clone"
         },
         {
           title: 'Calculator App',
